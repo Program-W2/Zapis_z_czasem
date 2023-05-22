@@ -1,0 +1,9 @@
+Aplikacja musi:
+    1. Pytać użytkownika o tekst, jaki chce wprowadzić do pliku tekstowego rejestr.txt V
+    2. Sprawdzać, czy powyższy plik istnieje - jeśli nie, tworzyć go.
+    3. Pytać użytkownika, o to jakie działanie chce podiąć: V
+        - Czy zapis,
+        - Czy odczyt.
+
+    4. W przypadku zapisu, zapisywać tekst do pliku rejestr.txt, razem z dzisiejszą datą, oraz godziną. V
+    5. W przypadku odczytu, odczytywać każdy wiersz z dzisiejszą datą i godziną. V

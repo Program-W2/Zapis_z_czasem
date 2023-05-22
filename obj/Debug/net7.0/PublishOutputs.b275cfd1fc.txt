@@ -1,0 +1,5 @@
+C:\Users\Program-W2\Desktop\Projekty Szarp\Zapis_z_czasem\bin\Debug\net7.0\publish\Zapis_z_czasem.exe
+C:\Users\Program-W2\Desktop\Projekty Szarp\Zapis_z_czasem\bin\Debug\net7.0\publish\Zapis_z_czasem.dll
+C:\Users\Program-W2\Desktop\Projekty Szarp\Zapis_z_czasem\bin\Debug\net7.0\publish\Zapis_z_czasem.deps.json
+C:\Users\Program-W2\Desktop\Projekty Szarp\Zapis_z_czasem\bin\Debug\net7.0\publish\Zapis_z_czasem.runtimeconfig.json
+C:\Users\Program-W2\Desktop\Projekty Szarp\Zapis_z_czasem\bin\Debug\net7.0\publish\Zapis_z_czasem.pdb
